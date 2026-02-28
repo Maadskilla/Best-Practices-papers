@@ -2,7 +2,7 @@
 
 Let’s start simple.
 
-**Anthropic’s** AI model, **Claude**, isn’t just answering homework questions anymore.
+Anthropic’s AI model, Claude, isn’t just answering homework questions anymore.
 
 It can now:
 
@@ -14,7 +14,7 @@ It can now:
 
 In plain English?
 
-> It can help run complex digital tasks with *less and less human babysitting.*
+It can help run complex digital tasks with less and less human babysitting.
 
 Not autonomous world domination.  
 But definitely less “press button → wait → press button again.”
@@ -40,7 +40,7 @@ You move from:
 
 To:
 
-> “AI handles most of it — human checks occasionally.”
+> “AI handles most of it, while humans check occasionally.”
 
 Now imagine that inside:
 
@@ -51,9 +51,7 @@ Now imagine that inside:
 
 The concern is not that Claude will wake up and launch missiles.
 
-The concern is:
-
-> What happens when powerful, probabilistic systems are embedded deep inside critical infrastructure with minimal oversight?
+It’s that powerful, probabilistic systems are being embedded deep inside critical infrastructure with minimal oversight, a reality that has drawn attention after reports that Claude was allegedly used by the U.S. military in the 2026 operation to capture Venezuelan President Nicolás Maduro, through integration with defense contractors in sensitive planning and intelligence tasks.  
 
 That’s not science fiction.  
 That’s governance.
@@ -62,7 +60,7 @@ That’s governance.
 
 ## The Ban: Control, Not Catastrophe 🇺🇸
 
-Under the administration of **:contentReference[oaicite:2]{index=2}**, the U.S. government allegedly moved to restrict federal use of Anthropic’s AI systems.
+Under the administration of Donald Trump, the U.S. government allegedly moved to restrict federal use of Anthropic’s AI systems.
 
 Not because Claude was hacked.  
 Not because it was technically unstable.  
@@ -72,11 +70,11 @@ Allegedly, the core issue was control:
 
 - Who decides how powerful AI is used?  
 - Can private companies impose ethical guardrails on military applications?  
-- Should national security infrastructure depend on vendor-defined limits?  
+- Should national security infrastructure depend on vendor‑defined limits?
 
 In simpler words:
 
-> If AI becomes strategic infrastructure, governments want leverage — not dependency.
+> If AI becomes strategic infrastructure, governments want leverage, not dependency.
 
 ---
 
@@ -84,10 +82,10 @@ In simpler words:
 
 Claude isn’t building Skynet. It doesn’t decide or act independently. Yet its ability to manage complex tasks, analyze massive amounts of information, and connect to other systems raises a deeper question:
 
-> If a machine can perform work with minimal human oversight, what does it mean for the choices we still claim to control?  
+> If a machine can perform work with minimal human oversight, what does it mean for the choices we still claim to control?
 
-This isn’t about fear of consciousness. It’s about **responsibility, influence, and decision-making**. Who sets the boundaries when tools can operate faster and more broadly than we can monitor? How do we ensure that these capabilities serve human priorities rather than inadvertently shaping them?
+This isn’t about fear of consciousness. It’s about responsibility, influence, and decision‑making. Who sets the boundaries when tools can operate faster and more broadly than we can monitor? How do we ensure that these capabilities serve human priorities rather than inadvertently shaping them?
 
 Claude may not think, but it challenges us to think harder, about the rules we set, the oversight we demand, and the future we are building with intelligent systems.
 
-> The real question isn’t what AI can do, it’s how we choose to use what it can do.
+The real question isn’t what AI can do, it’s how we choose to use what it can do.
